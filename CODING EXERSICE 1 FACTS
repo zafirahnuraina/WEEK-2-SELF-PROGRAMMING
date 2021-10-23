@@ -1,0 +1,21 @@
+package excersice;
+
+public class Facts {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		   System.out.println("We present the following facts for you" + "extracurricular edification:");
+		    System.out.println();
+		    
+		    // TODO Auto-generated method stub
+		    System.out.println("Letters in the Hawaiian alphabet: 12");
+		    // TODO Auto-generated method stub
+		    System.out.println("Dialing code for Antartica: " + 672);
+		    System.out.println("Year in which Leonardo da Vinci invented " + "the parachute: " + 1515);
+		    System.out.println("Speed of ketchup: " + 40 + "km per year");
+		
+		
+		
+	}
+
+}
